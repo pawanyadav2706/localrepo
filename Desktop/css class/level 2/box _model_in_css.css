@@ -1,0 +1,9 @@
+h1{
+    width: 200px;
+    height: 40px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color:black;
+    background-color: pink;
+    text-align: center;
+}

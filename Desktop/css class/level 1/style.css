@@ -1,0 +1,44 @@
+/* h1{
+    color:red
+}
+h2{
+    color:green
+} 
+
+
+
+style.css 
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 32px;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    font-size: 24px;
+    text-align: center;
+}
+button{
+    color:red;
+}
+body{
+    background-color:rgb(204, 18, 185) 
+} */
+
+
+*{
+    color:#00ff00
+}
+h1{
+    color:blue;
+}
+button{
+    color:red;
+}

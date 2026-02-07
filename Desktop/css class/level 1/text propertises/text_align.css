@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+    /* text-decoration: underline; */
+    /* text-decoration: overline; */
+    text-decoration:red wavy line-through;
+}
+p{
+    text-align: start;
+}
